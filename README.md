@@ -1,68 +1,83 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1 align="center">Todoist Clone 🤖</h1>
+<p align = center>
+    <img alt="Project Logo" src="https://image.flaticon.com/icons/svg/1632/1632670.svg" target="_blank" width = 120 height = 120 />
+</p>
 
-In the project directory, you can run:
+<p align="center">
 
-### `npm start`
+<img alt="Android" src="https://img.shields.io/badge/android-ready-brightgreen?style=for-the-badge&logo=android" target="_blank" />
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="Latest Commit" src="https://img.shields.io/github/last-commit/christyjacob4/android-onboarding-demo?style=for-the-badge&logo=git" target="_blank" />
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-success?style=for-the-badge&logo=coderwall" target="_blank" />
 
-### `npm test`
+  <a href="https://github.com/christyjacob4/android-onboarding-demo/blob/master/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-success.svg?style=for-the-badge&logo=gitter" target="_blank" />
+  </a>
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <a href="https://twitter.com/christyjacob4">
+    <img alt="Twitter: Christy Jacob" src="https://img.shields.io/twitter/follow/christyjacob4?label=Follow%20%40christyjacob4&style=for-the-badge&logo=twitter" target="_blank" />
+  </a>
+</p>
+<h3 align="center">Built a clone of the popular task manager Todoist as part of learning React</h3>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Usage
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+* ### Clone the repository
+```sh
+git clone https://github.com/christyjacob4/android-onboarding-demo/
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* ### Install dependencies
+```sh
+yarn install
+```
 
-### `npm run eject`
+* ### Start developement Server
+```sh
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## ✨ Screenshots
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="center">
+    <img src="https://imgur.com/sbwzpDz.jpg" width="300">
+    <img src="https://i.imgur.com/x5qTUhq.gif" width="300">
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 📖 Features
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [x] View Pager with Layout Inflator 
+- [x] Page Transformer Animations
+- [x] Clean UI
+- [x] No Fragments (Light Weight)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🍻 Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Contributions, issues and feature requests are welcome.<br />
+Feel free to check [issues page](https://github.com/christyjacob4/android-onboarding-demo/issues) if you want to contribute.
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## 👤 Author
 
-### Analyzing the Bundle Size
+**Christy Jacob**
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- Twitter: [@christyjacob4](https://twitter.com/christyjacob4)
+- Github: [@christyjacob4](https://github.com/christyjacob4)
 
-### Making a Progressive Web App
+## 🤝 Acknowledgements
+- Icons by [Flaticon](https://www.flaticon.com/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## 🙌 Show your support
 
-### Advanced Configuration
+Please ⭐️ this repository if this project helped you!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## 📝 License
 
-### Deployment
+Copyright © 2019 [Christy Jacob](https://github.com/christyjacob4).<br />
+This project is [MIT](https://github.com/christyjacob4/android-onboarding-demo/blob/master/LICENSE) licensed.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+---
