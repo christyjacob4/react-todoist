@@ -6,13 +6,13 @@
 
 <p align="center">
 
-<img alt="Android" src="https://img.shields.io/badge/android-ready-brightgreen?style=for-the-badge&logo=android" target="_blank" />
+<img alt="Android" src="https://img.shields.io/badge/platform-react-brightgreen?style=for-the-badge&logo=react" target="_blank" />
 
-  <img alt="Latest Commit" src="https://img.shields.io/github/last-commit/christyjacob4/android-onboarding-demo?style=for-the-badge&logo=git" target="_blank" />
+  <img alt="Latest Commit" src="https://img.shields.io/github/last-commit/christyjacob4/react-todoist?style=for-the-badge&logo=git" target="_blank" />
 
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-success?style=for-the-badge&logo=coderwall" target="_blank" />
 
-  <a href="https://github.com/christyjacob4/android-onboarding-demo/blob/master/LICENSE">
+  <a href="https://github.com/christyjacob4/react-todoist/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-success.svg?style=for-the-badge&logo=gitter" target="_blank" />
   </a>
 
@@ -27,7 +27,8 @@
 
 * ### Clone the repository
 ```sh
-git clone https://github.com/christyjacob4/android-onboarding-demo/
+git clone https://github.com/christyjacob4/react-todoist/
+cd react-todoist
 ```
 
 * ### Install dependencies
@@ -43,22 +44,23 @@ npm start
 ## ✨ Screenshots
 
 <p align="center">
-    <img src="https://imgur.com/sbwzpDz.jpg" width="300">
-    <img src="https://i.imgur.com/x5qTUhq.gif" width="300">
+    <img alt = "Attach Screenshot"src="" width="300">
+    <img alt = "Attach Screenshot" src="" width="300">
 </p>
 
 ## 📖 Features
 
-- [x] View Pager with Layout Inflator 
-- [x] Page Transformer Animations
-- [x] Clean UI
-- [x] No Fragments (Light Weight)
+- [x] Create new Tasks 
+- [x] Create projects 
+- [x] Mark tasks as completed
+- [x] Dark Mode
+- [x] Firebase Support 
 
 
 ## 🍻 Contributing
 
 Contributions, issues and feature requests are welcome.<br />
-Feel free to check [issues page](https://github.com/christyjacob4/android-onboarding-demo/issues) if you want to contribute.
+Feel free to check [issues page](https://github.com/christyjacob4/react-todoist/issues) if you want to contribute.
 
 
 ## 👤 Author
@@ -70,6 +72,7 @@ Feel free to check [issues page](https://github.com/christyjacob4/android-onboar
 
 ## 🤝 Acknowledgements
 - Icons by [Flaticon](https://www.flaticon.com/)
+- Thanks to [@karlhadwen](https://github.com/karlhadwen/) for his amazing tutorial on React-hooks and react testing.
 
 ## 🙌 Show your support
 
@@ -78,6 +81,6 @@ Please ⭐️ this repository if this project helped you!
 ## 📝 License
 
 Copyright © 2019 [Christy Jacob](https://github.com/christyjacob4).<br />
-This project is [MIT](https://github.com/christyjacob4/android-onboarding-demo/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/christyjacob4/react-todoist/blob/master/LICENSE) licensed.
 
 ---
