@@ -8,7 +8,7 @@
 
 <img alt="Android" src="https://img.shields.io/badge/platform-react-brightgreen?style=for-the-badge&logo=react" target="_blank" />
 
-  <img alt="Latest Commit" src="https://img.shields.io/github/last-commit/christyjacob4/react-todoist?style=for-the-badge&logo=git" target="_blank" />
+  <img alt="Latest Commit" src="https://img.shields.io/github/last-commit/christyjacob4/react-todoist?logo=git&style=for-the-badge" target="_blank" />
 
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-success?style=for-the-badge&logo=coderwall" target="_blank" />
 

@@ -141,6 +141,14 @@ $generic-bg: #db4c3f;
     background-color: #282828;
     border-color: transparent;
   }
+
+  body {
+    -webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,0.15);
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,0.15);
+    background-color: #282828;
+    border-color: transparent;
+
+  }
 }
 
 /* Header
@@ -419,7 +427,7 @@ header {
 /* Show Confirm Delete
   ============================================ */
 .project-delete-modal {
-  position: relative;
+  position: fixed;
 
   &__inner {
     @include box-overlay();
