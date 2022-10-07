@@ -33,7 +33,7 @@ cd react-todoist
 
 * ### Install dependencies
 ```sh
-yarn install
+npm install
 ```
 
 * ### Start developement Server
