@@ -1,7 +1,7 @@
 
 <h1 align="center">Todoist Clone 🤖</h1>
 <p align = center>
-    <img alt="Project Logo" src="https://image.flaticon.com/icons/svg/1632/1632670.svg" target="_blank" width = 120 height = 120 />
+    <img alt="Project Logo" src="https://cdn-icons-png.flaticon.com/512/2387/2387635.png" target="_blank" width = 120 height = 120 />
 </p>
 
 <p align="center">
